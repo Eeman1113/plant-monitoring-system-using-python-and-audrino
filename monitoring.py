@@ -1,11 +1,11 @@
 """
-__author__  =  ('ABHISEK GANGULY' , 'ASHUTOSH NAYAK')
+__author__  =  ('ABHISEK GANGULY' , 'ASHUTOSH NAYAK','EEMAN MAJUMDER')
 GITHUB REPO OF THE FULL PROJECT = https://github.com/AbhisekGanguly/Live-Plant-Monitoring-system
 
 ABHISEK GANGULY = 'https://github.com/AbhisekGanguly'
 ASHUTOSH NAYAK = 'https://github.com/ashklempton'
-
-LICENSE = MIT (Open Source) License 
+EEMAN MAJUMDER = 'https://github.com/Eeman1113'
+LICENSE = MIT (Open  License )
 python version used = 3.7
 """
 
